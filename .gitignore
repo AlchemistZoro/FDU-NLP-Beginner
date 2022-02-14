@@ -1,0 +1,9 @@
+.vscode/
+*/data/*
+*/.vector_cache/*
+**/.vector_cache/*
+*/model/*
+**.data/
+**/.vector_cache/*
+**/en_core_web_sm/*
+**/__pycache__
