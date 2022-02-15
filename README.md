@@ -66,7 +66,7 @@
 
 此任务为受任务三与任务五启发，利用较大型的对联数据集，基于BiLSTM训练对对联机器人。
 
-项目链接：[]()
+项目链接：[AIVTuber1.0-CoupletBot](https://github.com/seu-wll/AIVTuber1.0-CoupletBot)
 
 
 
